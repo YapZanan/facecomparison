@@ -88,5 +88,5 @@ python app.py
 
 ## Catatan
 
-- Model yang Pertama Kali Digunakan:  
+- Saat pertama kali:  
   Ketika pertama kali menjalankan aplikasi, program akan membutuhkan waktu sedikit lebih lama karena harus mendownload model machine learning yang diperlukan untuk membandingkan wajah. Pastikan koneksi internet Anda aktif.
